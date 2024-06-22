@@ -11,7 +11,7 @@
 	<groupId>com.example</groupId>
 	<artifactId>temporal</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>temporal</name>
+	<name>lp2_spring_web_sesion05</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>
